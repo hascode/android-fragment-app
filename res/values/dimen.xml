@@ -1,0 +1,4 @@
+
+    <resources>
+        <dimen name="selection_fragment">200sp</dimen>
+    </resources>
